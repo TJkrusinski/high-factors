@@ -1,0 +1,26 @@
+{
+  "name": "high-factors",
+  "version": "1.0.0",
+  "description": "Get two factors whose product is equal to or greater than the number itselt whose difference is minimal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJkrusinski/high-factors.git"
+  },
+  "keywords": [
+    "factor",
+    "factors",
+    "high",
+    "common",
+    "greatest"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/high-factors/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/high-factors"
+}
